@@ -12,6 +12,6 @@ The people on the other team will be trying to fight this person with there guns
 
 ## How to play (Commands)
 
-To start the game you will want to use the `h_start` command
-`h_start <Team:[t/ct/auto]> <Health:[200]> <MovementSpeed:[1.5]> <AlphaValue:[200]>`
+To start the game you will want to use the `h_start` command.    
+`h_start <Team:[t/ct/auto]> <Health:[200]> <MovementSpeed:[1.5]> <AlphaValue:[200]>`   
 Example : `h_start auto 200 1.5 50`
