@@ -2,7 +2,7 @@
 A Hidden plugin for sourcemod that i made for me and my freinds
 
 ## How the GameMode works
-One (Or More) people are the hidden who are invisible and have a buffed movement speed and health, the hidden can ONLY use there knife and/or util + zeus
+One (Or More) people are the hidden who are invisible and have a buffed movement speed and health, the hidden can ONLY use there knife and/or util + zeus.
 The people on the other team will be trying to fight this person with there guns and working together to kill the hidden
 
 ## Features
