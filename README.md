@@ -1,5 +1,5 @@
 # SM_Hidden Game Mode Custom
-A Hidden plugin for sourcemod that i made for me and my freinds
+A Hidden Gamemode plugin for csgo sourcemod that i made for me and my freinds
 
 ## How the GameMode works
 One (Or More) people are the hidden who are invisible and have a buffed movement speed and health, the hidden can ONLY use there knife and/or util + zeus.   
